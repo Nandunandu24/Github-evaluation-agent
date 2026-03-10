@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Nandini R",
+        "email": "rnandini1852@gmail.com",
+        "phone": "7676165009 ",
+        "repo": "https://github.com/Nandunandu24/Speech-to-speech-translation",
+        "score": null,
+        "eligibility": null
+    },
+    {
+        "name": "shyam",
+        "email": "rshyam123@gmail.com",
+        "phone": "3456782233",
+        "repo": "https://github.com/Nandunandu24/Speech-to-speech-translation",
+        "score": 40,
+        "eligibility": "Not Eligible"
+    },
+    {
+        "name": "shyam",
+        "email": "rshyam123@gmail.com",
+        "phone": "",
+        "repo": "https://github.com/Nandunandu24/End-to-End-chatbot",
+        "score": 30,
+        "eligibility": "Not Eligible"
+    },
+    {
+        "name": "ram",
+        "email": "rram123@gmail.com",
+        "phone": "78945621123",
+        "repo": "https://github.com/Nandunandu24/Employee_dashoard",
+        "score": 30,
+        "eligibility": "Not Eligible"
+    },
+    {
+        "name": "ram",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/Nandunandu24/Employee_dashoard/",
+        "score": 48,
+        "eligibility": "Not Eligible"
+    },
+    {
+        "name": "rakshana",
+        "email": "rakshana@gmail.com",
+        "phone": "987625342",
+        "repo": "https://github.com/NousResearch/hermes-agent",
+        "score": 100,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "shiksha",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/alibaba/page-agent",
+        "score": 100,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "shiksha",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/tauseedzaman/hospitalMS",
+        "score": 100,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "shiva",
+        "email": "shiva123@gmail.com",
+        "phone": "9746352436",
+        "repo": "https://github.com/MrSagarBiswas/E-Health-Management-System",
+        "score": 40,
+        "eligibility": "Not Eligible"
+    },
+    {
+        "name": "shyam",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/MrSagarBiswas/E-Health-Management-System",
+        "score": 80,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "shyam",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/streamlit/streamlit-example",
+        "score": 82,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "shyam",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/alibaba/page-agent",
+        "score": 90,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "anubhav",
+        "email": "anubhav@gmail.com",
+        "phone": "345678987",
+        "repo": "https://github.com/AnubhavMadhav/Train-Ticket-Booking-System",
+        "score": 81,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "anubhav",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/AnubhavMadhav/Train-Ticket-Booking-System/",
+        "score": 81,
+        "eligibility": "Eligible"
+    },
+    {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/Nandunandu24/Speech-to-speech-translation",
+        "score": 34,
+        "eligibility": "Needs Improvement"
+    },
+    {
+        "name": "raksha",
+        "email": "",
+        "phone": "",
+        "repo": "https://github.com/Nandunandu24/Speech-to-speech-translation/",
+        "score": 34,
+        "eligibility": "Needs Improvement"
+    }
+]
